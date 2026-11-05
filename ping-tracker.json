@@ -1,19 +1,19 @@
 {
-    "version": "0.0.8",
+    "version": "0.1.0",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/Antoniofo/ping-tracker-releases/releases/download/v0.0.8/ping-tracker_Windows_x86_64.zip",
+            "url": "https://github.com/Antoniofo/ping-tracker-releases/releases/download/v0.1.0/ping-tracker_Windows_x86_64.zip",
             "bin": [
                 "ping-tracker.exe"
             ],
-            "hash": "dc0ae3cff20aeba10bcbc906ba6b806b6deb387c7c3f475e038a3fce15160a48"
+            "hash": "0fc96a284820dbefa172244281834a80eeca7774e3660a79883bddf9da5bf669"
         },
         "arm64": {
-            "url": "https://github.com/Antoniofo/ping-tracker-releases/releases/download/v0.0.8/ping-tracker_Windows_arm64.zip",
+            "url": "https://github.com/Antoniofo/ping-tracker-releases/releases/download/v0.1.0/ping-tracker_Windows_arm64.zip",
             "bin": [
                 "ping-tracker.exe"
             ],
-            "hash": "f0dcc58f00e2e5231a53dd280b30b45ed82318c9c8bc31556d95a22145e552df"
+            "hash": "7af3870eff50857fafbaeea29f8c2fd593a1144ad5d0ce90c656639af06b3421"
         }
     },
     "homepage": "https://github.com/Antoniofo/ping-tracker-releases",
