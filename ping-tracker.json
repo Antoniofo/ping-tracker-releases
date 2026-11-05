@@ -1,0 +1,22 @@
+{
+    "version": "0.0.5",
+    "architecture": {
+        "64bit": {
+            "url": "https://github.com/Antoniofo/ping-tracker-releases/releases/download/v0.0.5/ping-tracker-releases_Windows_x86_64.zip",
+            "bin": [
+                "ping-tracker-releases.exe"
+            ],
+            "hash": "4bd7fb39af162e5ce75468b62d229da62289bd2999b337acac1eff4c16740090"
+        },
+        "arm64": {
+            "url": "https://github.com/Antoniofo/ping-tracker-releases/releases/download/v0.0.5/ping-tracker-releases_Windows_arm64.zip",
+            "bin": [
+                "ping-tracker-releases.exe"
+            ],
+            "hash": "8b1db955edbff4b44dc748cd3da3fc1cd6fd3c07eb6e486e97ea672a716a1794"
+        }
+    },
+    "homepage": "https://gitlab.forge.hefr.ch/antoine.egger/ping-tracker",
+    "license": "MIT",
+    "description": "Tracker of IP or DNS names"
+}
