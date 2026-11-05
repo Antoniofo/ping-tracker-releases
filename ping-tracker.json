@@ -1,22 +1,22 @@
 {
-    "version": "0.0.5",
+    "version": "0.0.7",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/Antoniofo/ping-tracker-releases/releases/download/v0.0.5/ping-tracker-releases_Windows_x86_64.zip",
+            "url": "https://github.com/Antoniofo/ping-tracker-releases/releases/download/v0.0.7/ping-tracker_Windows_x86_64.zip",
             "bin": [
-                "ping-tracker-releases.exe"
+                "ping-tracker.exe"
             ],
-            "hash": "4bd7fb39af162e5ce75468b62d229da62289bd2999b337acac1eff4c16740090"
+            "hash": "665bd29224731d3d2f51546531eda8ec54fcb9bfcfd7cdc9f818c61a4f183efa"
         },
         "arm64": {
-            "url": "https://github.com/Antoniofo/ping-tracker-releases/releases/download/v0.0.5/ping-tracker-releases_Windows_arm64.zip",
+            "url": "https://github.com/Antoniofo/ping-tracker-releases/releases/download/v0.0.7/ping-tracker_Windows_arm64.zip",
             "bin": [
-                "ping-tracker-releases.exe"
+                "ping-tracker.exe"
             ],
-            "hash": "8b1db955edbff4b44dc748cd3da3fc1cd6fd3c07eb6e486e97ea672a716a1794"
+            "hash": "4c2be97f08f703e24356e06087a2fbb29d6ab34635cdf76c13e198b002881485"
         }
     },
-    "homepage": "https://gitlab.forge.hefr.ch/antoine.egger/ping-tracker",
+    "homepage": "https://github.com/Antoniofo/ping-tracker-releases",
     "license": "MIT",
     "description": "Tracker of IP or DNS names"
 }
